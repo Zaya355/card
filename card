@@ -164,7 +164,7 @@
             <div class="card-face card-front">
                 <!-- Using lazy loading for the front image -->
                 <img 
-                    src="https://i.imghippo.com/files/IHbd3570pg.jpg" 
+                    src="https://i.imghippo.com/files/daAM8668js.png" 
                     alt="Card Front" 
                     width="220" 
                     height="320" 
@@ -174,11 +174,11 @@
     </div>
 
     <div class="card-info" id="cardInfo">
-    <h2>Ferdinand Julius Cohn</h2>
-    <p><strong>Lifetime:</strong> 1828–1898</p>
-    <p><strong>Title:</strong> Pioneer of Bacteriology</p>
-    <p><strong>Achievements:</strong> Ferdinand Julius Cohn is considered one of the foundational figures in the field of bacteriology. In 1853, he made a groundbreaking contribution by classifying bacteria into distinct groups based on their shapes—such as cocci, bacilli, and spirilla. This classification system became the cornerstone of modern bacteriology. In 1857, Cohn further revolutionized microbiology by discovering the existence of bacterial spores, which are highly resistant to extreme conditions like heat and drought. This finding not only expanded our understanding of bacterial survival but also laid the groundwork for advancements in sterilization and preservation techniques. In 1876, he proposed that bacteria should be classified within the plant kingdom due to their similar characteristics to plants, a view that influenced later developments in microbiology. In 1883, Cohn published his influential work on the classification of bacteria and algae, which was instrumental in shaping the future of microbiological research and taxonomy.</p>
-    <p><strong>Legacy:</strong> Cohn's pioneering research laid the essential foundation for the development of bacteriology as a scientific discipline. His classification system for bacteria helped to organize the vast diversity of microbial life, while his discovery of bacterial spores proved crucial in the study of microbial resistance and survival. These advancements have had lasting impacts on medicine, agriculture, and public health. His work also set the stage for later microbiologists, such as Louis Pasteur and Robert Koch, who would build upon Cohn’s discoveries to further explore the relationship between bacteria and disease. Ferdinand Julius Cohn is often regarded as one of the founders of modern microbiology, and his contributions continue to influence the study of microorganisms and their roles in both health and disease today.</p>
+    <h2>Emil von Behring</h2>
+    <p><strong>Lifetime:</strong> 1854–1917</p>
+    <p><strong>Title:</strong> Pioneer of Serology</p>
+    <p><strong>Achievements:</strong> Behring's work was centred on the concept of antitoxins. In collaboration with Shibasaburo Kitasato, he discovered that animals infected with certain bacteria, like those causing diphtheria and tetanus, produced substances in their blood that could neutralize the toxins produced by those bacteria. These substances were named antitoxins. Behring then developed methods to extract and purify these antitoxins from the blood serum of immunized animals, creating effective treatments. This approach, known as serum therapy or passive immunization, provided immediate protection against these deadly diseases by directly supplying the body with ready-made antibodies.</p>
+    <p><strong>Legacy:</strong> Behring's discovery of serum therapy revolutionized the treatment of infectious diseases. Before his work, diseases like diphtheria and tetanus were often fatal, particularly in children. Serum therapy provided a powerful new weapon against these diseases, dramatically reducing mortality rates. This breakthrough saved lives and laid the foundation for modern immunology, leading to the development of vaccines and other immunotherapeutic approaches.</p>
 </div>
 
 
